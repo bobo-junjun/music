@@ -1,0 +1,13 @@
+----------------------------------------------------------------
+Fri Nov 13 10:21:29 CST 2020:
+Booting Derby version The Apache Software Foundation - Apache Derby - 10.12.1.1 - (1704137): instance a816c00e-0175-bf68-5db7-0000238a5f48 
+on database directory F:\ideaProject3-2019\myspark\music\metastore_db with class loader org.apache.spark.sql.hive.client.IsolatedClientLoader$$anon$1@525647f3 
+Loaded from file:/F:/maven/mymaven2019/org/apache/derby/derby/10.12.1.1/derby-10.12.1.1.jar
+java.vendor=Oracle Corporation
+java.runtime.version=1.8.0_172-b11
+user.dir=F:\ideaProject3-2019\myspark\music
+os.name=Windows 10
+os.arch=amd64
+os.version=10.0
+derby.system.home=null
+Database Class Loader started - derby.database.classpath=''

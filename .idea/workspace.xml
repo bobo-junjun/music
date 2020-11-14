@@ -1,0 +1,369 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="79e4329e-998d-46fd-ae81-a4ea02d42049" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/.idea/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/codeStyles/codeStyleConfig.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/compiler.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/scala_compiler.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/uiDesigner.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/derby.log" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/metastore_db/README_DO_NOT_TOUCH_FILES.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/metastore_db/db.lck" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/metastore_db/log/README_DO_NOT_TOUCH_FILES.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/metastore_db/log/log.ctrl" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/metastore_db/log/log1.dat" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/metastore_db/log/logmirror.ctrl" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/metastore_db/seg0/README_DO_NOT_TOUCH_FILES.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/metastore_db/seg0/c10.dat" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/metastore_db/seg0/c101.dat" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/metastore_db/seg0/c111.dat" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/metastore_db/seg0/c121.dat" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/metastore_db/seg0/c130.dat" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/metastore_db/seg0/c141.dat" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/metastore_db/seg0/c150.dat" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/metastore_db/seg0/c161.dat" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/metastore_db/seg0/c171.dat" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/metastore_db/seg0/c180.dat" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/metastore_db/seg0/c191.dat" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/metastore_db/seg0/c1a1.dat" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/metastore_db/seg0/c1b1.dat" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/metastore_db/seg0/c1c0.dat" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/metastore_db/seg0/c1d1.dat" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/metastore_db/seg0/c1e0.dat" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/metastore_db/seg0/c1f1.dat" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/metastore_db/seg0/c20.dat" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/metastore_db/seg0/c200.dat" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/metastore_db/seg0/c211.dat" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/metastore_db/seg0/c221.dat" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/metastore_db/seg0/c230.dat" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/metastore_db/seg0/c241.dat" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/metastore_db/seg0/c251.dat" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/metastore_db/seg0/c260.dat" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/metastore_db/seg0/c271.dat" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/metastore_db/seg0/c281.dat" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/metastore_db/seg0/c290.dat" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/metastore_db/seg0/c2a1.dat" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/metastore_db/seg0/c2b1.dat" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/metastore_db/seg0/c2c1.dat" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/metastore_db/seg0/c2d0.dat" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/metastore_db/seg0/c2e1.dat" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/metastore_db/seg0/c2f0.dat" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/metastore_db/seg0/c300.dat" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/metastore_db/seg0/c31.dat" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/metastore_db/seg0/c311.dat" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/metastore_db/seg0/c321.dat" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/metastore_db/seg0/c331.dat" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/metastore_db/seg0/c340.dat" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/metastore_db/seg0/c351.dat" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/metastore_db/seg0/c361.dat" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/metastore_db/seg0/c371.dat" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/metastore_db/seg0/c380.dat" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/metastore_db/seg0/c391.dat" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/metastore_db/seg0/c3a1.dat" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/metastore_db/seg0/c3b1.dat" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/metastore_db/seg0/c3c0.dat" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/metastore_db/seg0/c3d1.dat" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/metastore_db/seg0/c3e1.dat" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/metastore_db/seg0/c3f1.dat" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/metastore_db/seg0/c400.dat" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/metastore_db/seg0/c41.dat" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/metastore_db/seg0/c411.dat" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/metastore_db/seg0/c421.dat" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/metastore_db/seg0/c430.dat" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/metastore_db/seg0/c441.dat" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/metastore_db/seg0/c451.dat" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/metastore_db/seg0/c461.dat" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/metastore_db/seg0/c470.dat" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/metastore_db/seg0/c481.dat" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/metastore_db/seg0/c490.dat" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/metastore_db/seg0/c4a1.dat" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/metastore_db/seg0/c4b0.dat" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/metastore_db/seg0/c4c1.dat" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/metastore_db/seg0/c4d1.dat" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/metastore_db/seg0/c4e1.dat" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/metastore_db/seg0/c4f0.dat" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/metastore_db/seg0/c501.dat" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/metastore_db/seg0/c51.dat" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/metastore_db/seg0/c510.dat" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/metastore_db/seg0/c521.dat" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/metastore_db/seg0/c530.dat" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/metastore_db/seg0/c541.dat" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/metastore_db/seg0/c550.dat" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/metastore_db/seg0/c561.dat" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/metastore_db/seg0/c570.dat" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/metastore_db/seg0/c581.dat" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/metastore_db/seg0/c590.dat" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/metastore_db/seg0/c5a1.dat" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/metastore_db/seg0/c5b0.dat" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/metastore_db/seg0/c5c1.dat" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/metastore_db/seg0/c5d0.dat" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/metastore_db/seg0/c5e1.dat" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/metastore_db/seg0/c5f0.dat" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/metastore_db/seg0/c60.dat" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/metastore_db/seg0/c601.dat" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/metastore_db/seg0/c610.dat" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/metastore_db/seg0/c621.dat" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/metastore_db/seg0/c630.dat" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/metastore_db/seg0/c641.dat" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/metastore_db/seg0/c650.dat" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/metastore_db/seg0/c661.dat" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/metastore_db/seg0/c670.dat" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/metastore_db/seg0/c681.dat" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/metastore_db/seg0/c690.dat" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/metastore_db/seg0/c6a1.dat" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/metastore_db/seg0/c6b0.dat" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/metastore_db/seg0/c6c1.dat" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/metastore_db/seg0/c6d0.dat" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/metastore_db/seg0/c6e1.dat" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/metastore_db/seg0/c6f0.dat" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/metastore_db/seg0/c701.dat" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/metastore_db/seg0/c71.dat" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/metastore_db/seg0/c711.dat" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/metastore_db/seg0/c721.dat" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/metastore_db/seg0/c731.dat" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/metastore_db/seg0/c741.dat" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/metastore_db/seg0/c751.dat" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/metastore_db/seg0/c761.dat" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/metastore_db/seg0/c771.dat" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/metastore_db/seg0/c781.dat" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/metastore_db/seg0/c791.dat" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/metastore_db/seg0/c7a1.dat" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/metastore_db/seg0/c7b1.dat" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/metastore_db/seg0/c7c1.dat" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/metastore_db/seg0/c7d1.dat" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/metastore_db/seg0/c7e1.dat" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/metastore_db/seg0/c7f1.dat" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/metastore_db/seg0/c801.dat" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/metastore_db/seg0/c81.dat" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/metastore_db/seg0/c811.dat" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/metastore_db/seg0/c821.dat" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/metastore_db/seg0/c831.dat" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/metastore_db/seg0/c840.dat" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/metastore_db/seg0/c851.dat" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/metastore_db/seg0/c860.dat" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/metastore_db/seg0/c871.dat" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/metastore_db/seg0/c880.dat" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/metastore_db/seg0/c891.dat" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/metastore_db/seg0/c8a0.dat" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/metastore_db/seg0/c8b1.dat" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/metastore_db/seg0/c8c1.dat" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/metastore_db/seg0/c8d1.dat" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/metastore_db/seg0/c8e1.dat" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/metastore_db/seg0/c8f1.dat" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/metastore_db/seg0/c90.dat" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/metastore_db/seg0/c901.dat" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/metastore_db/seg0/c911.dat" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/metastore_db/seg0/c920.dat" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/metastore_db/seg0/c931.dat" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/metastore_db/seg0/c940.dat" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/metastore_db/seg0/c951.dat" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/metastore_db/seg0/c960.dat" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/metastore_db/seg0/c971.dat" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/metastore_db/seg0/c981.dat" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/metastore_db/seg0/c990.dat" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/metastore_db/seg0/c9a1.dat" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/metastore_db/seg0/c9b1.dat" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/metastore_db/seg0/c9c0.dat" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/metastore_db/seg0/c9d1.dat" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/metastore_db/seg0/c9e0.dat" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/metastore_db/seg0/c9f1.dat" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/metastore_db/seg0/ca01.dat" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/metastore_db/seg0/ca1.dat" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/metastore_db/seg0/ca11.dat" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/metastore_db/seg0/ca21.dat" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/metastore_db/seg0/cb1.dat" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/metastore_db/seg0/cc0.dat" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/metastore_db/seg0/cd1.dat" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/metastore_db/seg0/ce1.dat" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/metastore_db/seg0/cf0.dat" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/metastore_db/service.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/music.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/resources/core-site.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/resources/hdfs-site.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/resources/hive-site.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/resources/log4j.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/scala/com/spark_music/DefineFileName.scala" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/scala/com/spark_music/GenerateTwSongBaseinfoD.scala" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/scala/com/spark_music/ProduceClientLog.scala" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/Test.scala" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/com/spark_music/DefineFileName.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/com/spark_music/GenerateTwSongBaseinfoD$.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/com/spark_music/GenerateTwSongBaseinfoD.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/com/spark_music/ProduceClientLog$.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/com/spark_music/ProduceClientLog.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/com/spark_music/Song$.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/com/spark_music/Song.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/core-site.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/hdfs-site.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/hive-site.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/log4j.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/test-classes/Test$.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/test-classes/Test.class" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="CodeStyleSettingsInfer">
+    <option name="done" value="true" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Scala Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="MavenImportPreferences">
+    <option name="generalSettings">
+      <MavenGeneralSettings>
+        <option name="localRepository" value="F:\maven\mymaven2019" />
+        <option name="mavenHome" value="D:/bigdataSoftware/apache-maven-3.5.3" />
+        <option name="userSettingsFile" value="D:\bigdataSoftware\apache-maven-3.5.3\conf\settings.xml" />
+      </MavenGeneralSettings>
+    </option>
+  </component>
+  <component name="ProjectCodeStyleSettingsMigration">
+    <option name="version" value="1" />
+  </component>
+  <component name="ProjectId" id="1kBJYr158t14AHm1IOfRAbcnifS" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="project.structure.last.edited" value="Modules" />
+    <property name="project.structure.proportion" value="0.0" />
+    <property name="project.structure.side.proportion" value="0.0" />
+    <property name="settings.editor.selected.configurable" value="MavenSettings" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="F:\ideaProject3-2019\myspark\music\src\main\resources" />
+    </key>
+  </component>
+  <component name="RunManager" selected="Application.GenerateTwSongBaseinfoD">
+    <configuration name="GenerateTwSongBaseinfoD" type="Application" factoryName="Application" temporary="true">
+      <option name="MAIN_CLASS_NAME" value="com.spark_music.GenerateTwSongBaseinfoD" />
+      <module name="music" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.spark_music.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="ProduceClientLog" type="Application" factoryName="Application" temporary="true">
+      <option name="MAIN_CLASS_NAME" value="com.spark_music.ProduceClientLog" />
+      <module name="music" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.spark_music.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Test" type="Application" factoryName="Application" temporary="true">
+      <option name="MAIN_CLASS_NAME" value="Test" />
+      <module name="music" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.GenerateTwSongBaseinfoD" />
+        <item itemvalue="Application.ProduceClientLog" />
+        <item itemvalue="Application.Test" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="ServiceViewManager">
+    <option name="viewStates">
+      <list>
+        <serviceView>
+          <treeState>
+            <expand />
+            <select />
+          </treeState>
+        </serviceView>
+      </list>
+    </option>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="79e4329e-998d-46fd-ae81-a4ea02d42049" name="Default Changelist" comment="" />
+      <created>1605168101341</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1605168101341</updated>
+      <workItem from="1605168106958" duration="40169000" />
+      <workItem from="1605318266730" duration="3623000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="452" y="119" key="#Project_Structure" timestamp="1605179996365">
+      <screen x="0" y="0" width="1920" height="1080" />
+    </state>
+    <state x="452" y="119" key="#Project_Structure/0.0.1920.1080@0.0.1920.1080" timestamp="1605179996365" />
+    <state x="1006" y="200" key="#com.intellij.ide.util.MemberChooser" timestamp="1605271328871">
+      <screen x="0" y="0" width="1920" height="1080" />
+    </state>
+    <state x="1006" y="200" key="#com.intellij.ide.util.MemberChooser/0.0.1920.1080@0.0.1920.1080" timestamp="1605271328871" />
+    <state x="871" y="278" key="#com.intellij.ide.util.frameworkSupport.AddFrameworkSupportDialog" timestamp="1605181222556">
+      <screen x="0" y="0" width="1920" height="1080" />
+    </state>
+    <state x="871" y="278" key="#com.intellij.ide.util.frameworkSupport.AddFrameworkSupportDialog/0.0.1920.1080@0.0.1920.1080" timestamp="1605181222556" />
+    <state x="364" y="162" key="FileChooserDialogImpl" timestamp="1605339428265">
+      <screen x="0" y="0" width="1920" height="1080" />
+    </state>
+    <state x="364" y="162" key="FileChooserDialogImpl/0.0.1920.1080@0.0.1920.1080" timestamp="1605339428265" />
+    <state width="1108" height="204" key="GridCell.Tab.0.bottom" timestamp="1605269020450">
+      <screen x="0" y="0" width="1920" height="1080" />
+    </state>
+    <state width="1108" height="204" key="GridCell.Tab.0.bottom/0.0.1920.1080@0.0.1920.1080" timestamp="1605269020450" />
+    <state width="1108" height="204" key="GridCell.Tab.0.center" timestamp="1605269020450">
+      <screen x="0" y="0" width="1920" height="1080" />
+    </state>
+    <state width="1108" height="204" key="GridCell.Tab.0.center/0.0.1920.1080@0.0.1920.1080" timestamp="1605269020450" />
+    <state width="1108" height="204" key="GridCell.Tab.0.left" timestamp="1605269020450">
+      <screen x="0" y="0" width="1920" height="1080" />
+    </state>
+    <state width="1108" height="204" key="GridCell.Tab.0.left/0.0.1920.1080@0.0.1920.1080" timestamp="1605269020450" />
+    <state width="1108" height="204" key="GridCell.Tab.0.right" timestamp="1605269020450">
+      <screen x="0" y="0" width="1920" height="1080" />
+    </state>
+    <state width="1108" height="204" key="GridCell.Tab.0.right/0.0.1920.1080@0.0.1920.1080" timestamp="1605269020450" />
+    <state x="161" y="180" key="new project wizard" timestamp="1605250432720">
+      <screen x="0" y="0" width="1920" height="1080" />
+    </state>
+    <state x="161" y="180" key="new project wizard/0.0.1920.1080@0.0.1920.1080" timestamp="1605250432720" />
+  </component>
+</project>
