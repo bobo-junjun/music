@@ -243,6 +243,7 @@
   </component>
   <component name="PropertiesComponent">
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
@@ -341,10 +342,18 @@
       <screen x="0" y="0" width="1920" height="1080" />
     </state>
     <state x="871" y="278" key="#com.intellij.ide.util.frameworkSupport.AddFrameworkSupportDialog/0.0.1920.1080@0.0.1920.1080" timestamp="1605181222556" />
+    <state x="505" y="69" key="CommitChangelistDialog2" timestamp="1605339493878">
+      <screen x="0" y="0" width="1920" height="1080" />
+    </state>
+    <state x="505" y="69" key="CommitChangelistDialog2/0.0.1920.1080@0.0.1920.1080" timestamp="1605339493878" />
     <state x="364" y="162" key="FileChooserDialogImpl" timestamp="1605339428265">
       <screen x="0" y="0" width="1920" height="1080" />
     </state>
     <state x="364" y="162" key="FileChooserDialogImpl/0.0.1920.1080@0.0.1920.1080" timestamp="1605339428265" />
+    <state x="812" y="413" width="326" height="343" key="Github.ShareDialog" timestamp="1605339563156">
+      <screen x="0" y="0" width="1920" height="1080" />
+    </state>
+    <state x="812" y="413" width="326" height="343" key="Github.ShareDialog/0.0.1920.1080@0.0.1920.1080" timestamp="1605339563156" />
     <state width="1108" height="204" key="GridCell.Tab.0.bottom" timestamp="1605269020450">
       <screen x="0" y="0" width="1920" height="1080" />
     </state>
