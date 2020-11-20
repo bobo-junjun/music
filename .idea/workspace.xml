@@ -2,36 +2,8 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="79e4329e-998d-46fd-ae81-a4ea02d42049" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/data/currentday_clientlog.tar.gz" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/resources/application.properties" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/scala/com/spark_music/my/DefineFileName.scala" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/scala/com/spark_music/my/GenerateTwSongBaseinfoD.scala" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/scala/com/spark_music/my/ProduceClientLog.scala" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/scala/com/spark_music/ok/base/ParRDDMultipleTextOutputFormat.scala" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/scala/com/spark_music/ok/machine/GenerateTwMacBaseinfoD.scala" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/scala/com/spark_music/ok/song/GenerateTwSongBaseinfoD.scala" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/scala/com/spark_music/ok/song/GenerateTwSongFturD.scala" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/scala/com/spark_music/ok/song/GenerateTwSongRsiD.scala" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/scala/com/spark_music/ok/song/ProduceClientLog.scala" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/scala/com/spark_music/ok/utils/ConfigUtils.scala" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/scala/com/spark_music/ok/utils/MyDataUtils.scala" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/Test02.scala" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/Test03.scala" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/scala/com/spark_music/DefineFileName.scala" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/scala/com/spark_music/GenerateTwSongBaseinfoD.scala" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/scala/com/spark_music/ProduceClientLog.scala" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/test/java/Test.scala" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/Test.scala" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/com/spark_music/DefineFileName.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/com/spark_music/GenerateTwSongBaseinfoD$.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/com/spark_music/GenerateTwSongBaseinfoD.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/com/spark_music/ProduceClientLog$.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/com/spark_music/ProduceClientLog.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/com/spark_music/Song$.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/com/spark_music/Song.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/test-classes/Test$.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/test-classes/Test$.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/test-classes/Test.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/test-classes/Test.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/Test03.scala" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/Test03.scala" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -197,6 +169,8 @@
       <workItem from="1605573610413" duration="37111000" />
       <workItem from="1605748644730" duration="10468000" />
       <workItem from="1605842967876" duration="5623000" />
+      <workItem from="1605862403306" duration="700000" />
+      <workItem from="1605863118136" duration="68000" />
     </task>
     <task id="LOCAL-00001" summary="音乐项目">
       <created>1605339498320</created>
@@ -212,7 +186,14 @@
       <option name="project" value="LOCAL" />
       <updated>1605339576247</updated>
     </task>
-    <option name="localTasksCounter" value="3" />
+    <task id="LOCAL-00003" summary="音乐项目">
+      <created>1605862576758</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1605862576758</updated>
+    </task>
+    <option name="localTasksCounter" value="4" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -227,10 +208,10 @@
       <screen x="0" y="0" width="1920" height="1080" />
     </state>
     <state x="452" y="119" key="#Project_Structure/0.0.1920.1080@0.0.1920.1080" timestamp="1605179996365" />
-    <state x="1009" y="325" key="#com.intellij.codeInsight.editorActions.RestoreReferencesDialog" timestamp="1605843072707">
+    <state x="1009" y="325" key="#com.intellij.codeInsight.editorActions.RestoreReferencesDialog" timestamp="1605862700630">
       <screen x="0" y="0" width="1920" height="1080" />
     </state>
-    <state x="1009" y="325" key="#com.intellij.codeInsight.editorActions.RestoreReferencesDialog/0.0.1920.1080@0.0.1920.1080" timestamp="1605843072707" />
+    <state x="1009" y="325" key="#com.intellij.codeInsight.editorActions.RestoreReferencesDialog/0.0.1920.1080@0.0.1920.1080" timestamp="1605862700630" />
     <state x="569" y="199" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1605787353612">
       <screen x="0" y="0" width="1920" height="1080" />
     </state>
@@ -247,10 +228,10 @@
       <screen x="0" y="0" width="1920" height="1080" />
     </state>
     <state x="871" y="278" key="#com.intellij.ide.util.frameworkSupport.AddFrameworkSupportDialog/0.0.1920.1080@0.0.1920.1080" timestamp="1605181222556" />
-    <state x="505" y="69" key="CommitChangelistDialog2" timestamp="1605339574729">
+    <state x="505" y="69" key="CommitChangelistDialog2" timestamp="1605862572378">
       <screen x="0" y="0" width="1920" height="1080" />
     </state>
-    <state x="505" y="69" key="CommitChangelistDialog2/0.0.1920.1080@0.0.1920.1080" timestamp="1605339574729" />
+    <state x="505" y="69" key="CommitChangelistDialog2/0.0.1920.1080@0.0.1920.1080" timestamp="1605862572378" />
     <state x="364" y="162" key="FileChooserDialogImpl" timestamp="1605852084529">
       <screen x="0" y="0" width="1920" height="1080" />
     </state>
@@ -295,10 +276,10 @@
       <screen x="0" y="0" width="1920" height="1080" />
     </state>
     <state x="348" y="98" key="SettingsEditor/0.0.1920.1080@0.0.1920.1080" timestamp="1605582398053" />
-    <state x="452" y="212" width="1018" height="656" key="Vcs.Push.Dialog.v2" timestamp="1605862519341">
+    <state x="452" y="212" width="1018" height="656" key="Vcs.Push.Dialog.v2" timestamp="1605862890074">
       <screen x="0" y="0" width="1920" height="1080" />
     </state>
-    <state x="452" y="212" width="1018" height="656" key="Vcs.Push.Dialog.v2/0.0.1920.1080@0.0.1920.1080" timestamp="1605862519341" />
+    <state x="452" y="212" width="1018" height="656" key="Vcs.Push.Dialog.v2/0.0.1920.1080@0.0.1920.1080" timestamp="1605862890074" />
     <state x="525" y="68" key="com.intellij.openapi.editor.actions.MultiplePasteAction$ClipboardContentChooser" timestamp="1605600103374">
       <screen x="0" y="0" width="1920" height="1080" />
     </state>
