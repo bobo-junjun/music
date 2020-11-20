@@ -3,7 +3,6 @@
   <component name="ChangeListManager">
     <list default="true" id="79e4329e-998d-46fd-ae81-a4ea02d42049" name="Default Changelist" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/test/java/Test03.scala" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/Test03.scala" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -58,7 +57,7 @@
     <property name="project.structure.last.edited" value="Modules" />
     <property name="project.structure.proportion" value="0.0" />
     <property name="project.structure.side.proportion" value="0.0" />
-    <property name="settings.editor.selected.configurable" value="MavenSettings" />
+    <property name="settings.editor.selected.configurable" value="settings.github" />
   </component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
@@ -170,7 +169,7 @@
       <workItem from="1605748644730" duration="10468000" />
       <workItem from="1605842967876" duration="5623000" />
       <workItem from="1605862403306" duration="700000" />
-      <workItem from="1605863118136" duration="68000" />
+      <workItem from="1605863118136" duration="321000" />
     </task>
     <task id="LOCAL-00001" summary="音乐项目">
       <created>1605339498320</created>
@@ -193,7 +192,14 @@
       <option name="project" value="LOCAL" />
       <updated>1605862576758</updated>
     </task>
-    <option name="localTasksCounter" value="4" />
+    <task id="LOCAL-00004" summary="音乐项目">
+      <created>1605863275609</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1605863275609</updated>
+    </task>
+    <option name="localTasksCounter" value="5" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -228,10 +234,10 @@
       <screen x="0" y="0" width="1920" height="1080" />
     </state>
     <state x="871" y="278" key="#com.intellij.ide.util.frameworkSupport.AddFrameworkSupportDialog/0.0.1920.1080@0.0.1920.1080" timestamp="1605181222556" />
-    <state x="505" y="69" key="CommitChangelistDialog2" timestamp="1605862572378">
+    <state x="505" y="69" key="CommitChangelistDialog2" timestamp="1605863273481">
       <screen x="0" y="0" width="1920" height="1080" />
     </state>
-    <state x="505" y="69" key="CommitChangelistDialog2/0.0.1920.1080@0.0.1920.1080" timestamp="1605862572378" />
+    <state x="505" y="69" key="CommitChangelistDialog2/0.0.1920.1080@0.0.1920.1080" timestamp="1605863273481" />
     <state x="364" y="162" key="FileChooserDialogImpl" timestamp="1605852084529">
       <screen x="0" y="0" width="1920" height="1080" />
     </state>
@@ -272,14 +278,14 @@
       <screen x="0" y="0" width="1920" height="1080" />
     </state>
     <state width="1867" height="349" key="GridCell.Tab.1.right/0.0.1920.1080@0.0.1920.1080" timestamp="1605603514790" />
-    <state x="348" y="98" key="SettingsEditor" timestamp="1605582398053">
+    <state x="348" y="98" key="SettingsEditor" timestamp="1605863441116">
       <screen x="0" y="0" width="1920" height="1080" />
     </state>
-    <state x="348" y="98" key="SettingsEditor/0.0.1920.1080@0.0.1920.1080" timestamp="1605582398053" />
-    <state x="452" y="212" width="1018" height="656" key="Vcs.Push.Dialog.v2" timestamp="1605862890074">
+    <state x="348" y="98" key="SettingsEditor/0.0.1920.1080@0.0.1920.1080" timestamp="1605863441116" />
+    <state x="452" y="212" width="1018" height="656" key="Vcs.Push.Dialog.v2" timestamp="1605863335074">
       <screen x="0" y="0" width="1920" height="1080" />
     </state>
-    <state x="452" y="212" width="1018" height="656" key="Vcs.Push.Dialog.v2/0.0.1920.1080@0.0.1920.1080" timestamp="1605862890074" />
+    <state x="452" y="212" width="1018" height="656" key="Vcs.Push.Dialog.v2/0.0.1920.1080@0.0.1920.1080" timestamp="1605863335074" />
     <state x="525" y="68" key="com.intellij.openapi.editor.actions.MultiplePasteAction$ClipboardContentChooser" timestamp="1605600103374">
       <screen x="0" y="0" width="1920" height="1080" />
     </state>
