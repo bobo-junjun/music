@@ -25,7 +25,7 @@ object Test02 {
   def getAddressFromXY(x:String,y:String): Unit ={
 
     val httpClient: CloseableHttpClient = HttpClients.createDefault()
-    val httpGet  = new HttpGet(s"https://restapi.amap.com/v3/geocode/regeo?&location=${x},${y}&key=f6d2adebb4765ae57e0ebdc5210d6a3e")
+    val httpGet  = new HttpGet(s"https://restapi.amap.com/v3/geocode/regeo?&location=${x},${y}&key=地图API的Key")
     // 发送请求，获取返回信息
     val response: CloseableHttpResponse =  httpClient.execute(httpGet)
 
